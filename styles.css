@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+}
+
+header {
+  background: #0056b3;
+  color: #fff;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+header input {
+  padding: 8px;
+  width: 50%;
+  margin-top: 10px;
+}
+
+section.termos {
+  padding: 20px;
+  margin: 10px;
+  background: white;
+
+}
+section.termos ol li {
+  margin-bottom: 12px;
+}
+section.explic {
+  padding: 20px;
+  margin: 10px;
+  margin-bottom: 32px;
+  background: white;
+
+}
+
+footer {
+  text-align: center;
+  padding: 10px 20px;
+  background: #ddd;
+}
+
+.buscar-btn {
+  padding: 8px 12px;
+  text-transform: uppercase;
+}
+
+.highlight {
+  background-color: yellow;
+}
